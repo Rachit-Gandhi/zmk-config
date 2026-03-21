@@ -20,6 +20,6 @@
 ---
 include:
   - board: nrfmicro_13
-    shield: lily58_left
+    shield: splitkb_aurora_lily58_left
   - board: nrfmicro_13
-    shield: lily58_right
+    shield: splitkb_aurora_lily58_right
